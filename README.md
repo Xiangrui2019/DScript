@@ -1,2 +1,2 @@
-# DScript
+# DScript   (Ubuntu 20.04)
 自动化运维脚本集合，一套方便使用的运维工具.
